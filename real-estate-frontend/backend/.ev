@@ -1,0 +1,2 @@
+MONGO_URI = mongodb+srv://nr11707516:Sakshi1430%40@agf.ykmai.mongodb.net/realestate?retryWrites=true&w=majority
+PORT=5000
